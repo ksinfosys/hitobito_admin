@@ -42,7 +42,7 @@ const sideMenu = atom({
                 title: "비밀번호 변경",
             },
             {
-                pathname: "/",
+                pathname: "",
                 title: "로그아웃",
             },
         ],
